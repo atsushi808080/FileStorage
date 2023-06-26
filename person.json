@@ -1,0 +1,15 @@
+{
+    "firstname":"Neil",
+    "gender":true,
+    "heigth":179,
+    "email":"atsushi8080@gmail.com",
+    "city":{
+        "通訊地址":"桃園",
+        "戶籍地址":"桃園"
+    },
+    "phone":{
+        "市話":"03-1234567",
+        "行動電話":"0936289716"
+    },
+    "cars":["TOYOTA","Bentley","Mclaren","Rolls_Royce"]
+}
